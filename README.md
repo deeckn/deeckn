@@ -7,10 +7,12 @@ I have always have an interest in the software development process, the OOP prac
 
 Recently, I've been immersing myself with Android Development with Java, but soon I will be moving on to multiplatform app development. I want to cover both iOS and Android users for my applications.
 
-## Here are some repositories I am proud to share with
+## Here are some repositories I enjoyed working on
 https://github.com/deeckn/GIN-ARAI-DEE \
 https://github.com/deeckn/TODOLIST \
-https://github.com/deeckn/WEB-PORTFOLIO
+https://github.com/deeckn/WEB-PORTFOLIO \
+https://github.com/deeckn/WEB-TODOLIST
+
 
 ## Contacts 📭
 You can visit my website: https://ckndeesit.netlify.app/ \
