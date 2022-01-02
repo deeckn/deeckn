@@ -15,6 +15,6 @@ https://github.com/deeckn/WEB-TODOLIST
 
 
 ## Contacts 📭
-You can visit my website: https://ckndeesit.netlify.app/ \
+Visit my website: https://ckndeesit.netlify.app/ \
 Email: ckn.deesit@gmail.com\
 Check out my Linkedin: https://www.linkedin.com/in/chakrin-deesit-076804209/
