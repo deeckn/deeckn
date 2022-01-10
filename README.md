@@ -9,7 +9,7 @@ Recently, I've been immersing myself with web development with HTML, CSS, and Ja
 
 ## Here are some repositories I enjoyed working on
 https://github.com/deeckn/GIN-ARAI-DEE \
-https://github.com/deeckn/WEB-PORTFOLIO \
+https://github.com/deeckn/WEB-PORTFOLIO-2.0 \
 https://github.com/deeckn/TODOLIST
 
 ## Self-Improvement Development Projects
