@@ -8,8 +8,8 @@ I have always have an interest in the software development process, the OOP prac
 Recently, I've been immersing myself with web development with React. Doing mini projects to tackle different technical skill sets for web development. You can check some of these projects down below!
 
 ## Here are some repositories I enjoyed working on
+https://github.com/deeckn/web-portfolio-2022 \
 https://github.com/deeckn/GIN-ARAI-DEE \
-https://github.com/deeckn/WEB-PORTFOLIO-2.0 \
 https://github.com/deeckn/TODOLIST
 
 ## Self-Improvement Development Projects
