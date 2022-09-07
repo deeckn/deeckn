@@ -10,7 +10,7 @@ Recently, I've been immersing myself with web development with Next.js. Doing pr
 ## Here are some repositories I enjoyed working on
 https://github.com/deeckn/web-portfolio-2022 \
 https://github.com/deeckn/GIN-ARAI-DEE \
-https://github.com/deeckn/TODOLIST
+https://github.com/deeckn/Warehouse-Management
 
 ## Self-Improvement Development Projects
 https://github.com/deeckn/GPA-DEE-MHAI \
