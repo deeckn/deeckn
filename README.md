@@ -12,7 +12,8 @@ Visit my website: https://ckndeesit.vercel.app/ \
 Email: ckn.deesit@gmail.com\
 Check out my LinkedIn: https://www.linkedin.com/in/chakrin-deesit-076804209/
 
-## Here are some repositories I enjoyed working on
+## Here are some projects I enjoyed working on
+https://ckndeesit.vercel.app/business-card \
 https://github.com/deeckn/GIN-ARAI-DEE \
 https://github.com/deeckn/Warehouse-Management
 
