@@ -10,14 +10,9 @@ Recently, I've been immersing myself with full-stack web development with Next.j
 ## Contacts 📭
 Visit my website: https://ckndeesit.vercel.app/ \
 Email: ckn.deesit@gmail.com\
-Check out my LinkedIn: https://www.linkedin.com/in/chakrin-deesit-076804209/
+LinkedIn: https://www.linkedin.com/in/chakrin-deesit-076804209/
 
 ## Here are some projects I enjoyed working on
+https://study-book.vercel.app/ \
 https://ckndeesit.vercel.app/business-card \
-https://github.com/deeckn/GIN-ARAI-DEE \
-https://github.com/deeckn/Warehouse-Management
-
-## Self-Improvement Development Projects
-https://github.com/deeckn/GPA-DEE-MHAI \
-https://github.com/deeckn/ShuntingYard-Calculator \
-https://github.com/deeckn/Dad-Jokes
+https://github.com/deeckn/GIN-ARAI-DEE
