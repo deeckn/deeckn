@@ -1,4 +1,4 @@
-![github-readme-banner](https://user-images.githubusercontent.com/40157947/196252647-c363244e-8294-4e3b-ac2c-4f259dfb09a2.png)
+![github-readme-banner](https://user-images.githubusercontent.com/40157947/232015948-23fb84d1-33f6-4fc3-a361-574335c73bfd.png)
 
 # Dee Chakrin 👋
 Hi, I'm Dee. I am a software engineering student at KMITL, Thailand. 💻
