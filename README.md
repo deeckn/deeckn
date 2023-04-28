@@ -14,5 +14,4 @@ LinkedIn: https://www.linkedin.com/in/chakrin-deesit-076804209/
 
 ## Here are some projects I enjoyed working on
 https://study-book.vercel.app/ \
-https://ckndeesit.vercel.app/business-card \
 https://github.com/deeckn/GIN-ARAI-DEE
