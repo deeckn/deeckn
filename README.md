@@ -13,5 +13,4 @@ LinkedIn: https://www.linkedin.com/in/chakrin-deesit-076804209/
 ## Here are some projects I enjoyed working on
 https://torch-up.vercel.app/ \
 https://study-book.vercel.app/ \
-https://github.com/deeckn/GIN-ARAI-DEE \
 https://github.com/deeckn/design-patterns
