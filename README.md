@@ -8,7 +8,7 @@ Recently, I've been immersing myself in full-stack web development with Next.js 
 ## Contacts 📭
 Visit my website: https://ckndeesit.vercel.app/ \
 Email: ckn.deesit@gmail.com\
-LinkedIn: https://www.linkedin.com/in/chakrin-deesit-076804209/
+LinkedIn: www.linkedin.com/in/ckndeesit
 
 ## Here are some projects I enjoyed working on
 https://torch-up.vercel.app/ \
