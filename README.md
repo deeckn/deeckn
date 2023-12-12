@@ -6,7 +6,7 @@ I have always been interested in the software development process, OOP practices
 Recently, I've been immersing myself in full-stack web development with Next.js and Nest.js. Doing projects to tackle different technical skill sets for web development. You can check some of these projects in my public repositories!
 
 ## Contacts 📭
-Visit my website: https://ckndeesit.vercel.app/ \
+Visit my website: https://cdeesit.com/ \
 Email: ckn.deesit@gmail.com\
 LinkedIn: www.linkedin.com/in/ckndeesit
 
